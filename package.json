@@ -1,0 +1,12 @@
+{
+  "name": "digital-complaint-system",
+  "version": "1.0.0",
+  "description": "Digital Complaint & Grievance Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
